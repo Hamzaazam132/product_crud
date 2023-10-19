@@ -26,7 +26,7 @@
 	}
 	?>
 	<div id="footer">
-		Created by <a href="http://blog.chapagain.com.np" title="Mukesh Chapagain">Mukesh Chapagain</a>
+		Created by <a href="http://blog.chapagain.com.np" title="Hamza Azam">Hamza Azam</a>
 	</div>
 </body>
 </html>
